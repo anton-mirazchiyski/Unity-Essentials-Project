@@ -1,0 +1,22 @@
+# Ignore IDE-specific files
+.idea/
+.vscode/
+
+# Ignore Library, Temp, Logs, and Builds
+Library/
+Temp/
+Logs/
+obj/
+UserSettings/
+WebGL Builds/
+
+# Ignore Unity’s auto-generated folders
+# Ignore everything in Packages except manifest.json
+Packages/*
+!Packages/manifest.json
+!Packages/packages-lock.json
+
+Recordings/
+
+# Ignore OS-specific files
+*.DS_Store
