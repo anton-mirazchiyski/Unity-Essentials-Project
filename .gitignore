@@ -20,3 +20,9 @@ Recordings/
 
 # Ignore OS-specific files
 *.DS_Store
+
+
+*.csproj
+*.sln
+*.zip
+webgl_sharing/
